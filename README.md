@@ -1,93 +1,59 @@
-<h1 align="center">Hi there, I'm Vadim! 👋</h1>
-<h3 align="center">A Passionate QA Engineer from Moldova</h3>
+<h1 align="center">VADIM DONES</h1>
+<p align="center"><strong>QA Engineer | SDET</strong></p>
 
 <p align="center">
-  <em>
-    I'm constantly exploring new testing methodologies, tools, and best practices to ensure that software is delivered with exceptional quality and reliability.
-  </em>
+  <a href="mailto:donesvad@gmail.com">donesvad@gmail.com</a> • 
+  +66&nbsp;6&nbsp;2171&nbsp;6318 • 
+  <a href="https://www.linkedin.com/in/vadim-dones" target="_blank">LinkedIn</a> • 
+  <a href="https://github.com/donesvad" target="_blank">GitHub</a>
 </p>
 
 ---
 
-### 🚀 About Me
-- 🎯 **What I do**: QA Automation, Manual Testing, CI/CD integration, and more  
-- 🌱 **Currently learning**: Advanced test automation frameworks, cloud environments  
-- 💬 **Ask me about**: Test automation, debugging, CI/CD pipelines, and tools for QA  
-- 📫 **How to reach me**: **[donesvad@gmail.com](mailto:donesvad@gmail.com)**  
+## 👋 About Me
+I'm a QA Automation Engineer with **6+ years** of experience in designing and implementing test automation frameworks, optimizing testing processes, and enhancing test strategies. I’m **language agnostic** with hands-on skills in **Java**, **Go**, and **JavaScript**, covering both UI and API test automation, plus CI/CD integrations.  
+<br>
+I excel in agile environments where continuous improvement and collaboration are top priorities.
 
 ---
 
-### ⚒️ Technologies & Tools
+## ⚒️ Skills
 
-<p align="left">
-  <!-- AWS -->
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50"/>
-  </a>
-  <!-- Docker -->
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/>
-  </a>
-  <!-- Elastic -->
-  <a href="https://www.elastic.co" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/>
-  </a>
-  <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <!-- Heroku -->
-  <a href="https://heroku.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
-  </a>
-  <!-- Java -->
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <!-- Jenkins -->
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
-  </a>
-  <!-- Linux -->
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <!-- MongoDB -->
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/>
-  </a>
-  <!-- MySQL -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
-  </a>
-  <!-- PostgreSQL -->
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/>
-  </a>
-  <!-- Postman -->
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-  <!-- Selenium -->
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
-  </a>
-  <!-- Spring -->
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
-  </a>
-</p>
+- **Programming Languages**  
+  Java • JavaScript • Go
 
----
+- **Test Automation**  
+  JUnit • TestNG • Cucumber • Mocha
 
-### 📈 GitHub Stats
+- **UI**  
+  Selenium • Selenide
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=donesvad&show_icons=true&locale=en&layout=compact" alt="donesvad" />
-</p>
+- **API**  
+  REST • gRPC • GraphQL • Postman • Spring • Node.js
+
+- **Mobile**  
+  WebDriverIO • Appium • React Native • Flutter
+
+- **Databases**  
+  PostgreSQL • MongoDB
+
+- **CI/CD**  
+  Jenkins • GitHub Actions • CircleCI • Bitrise • Heroku • Docker • Kubernetes • Selenium Hub
+
+- **Project Management**  
+  Jira • Zephyr • Confluence
+
+- **Other Tools**  
+  Maven • Gradle • NVM • Yarn • JMeter
+
+- **Methodologies**  
+  Agile • Scrum • Kanban
+
+- **Soft Skills**  
+  Team Player • Bias for Action • Deliver Results
 
 ---
 
 <p align="center">
-  <strong>🤝 Let's connect and work on some amazing projects together!</strong>
+  <strong>Let's connect and collaborate on amazing QA solutions!</strong>
 </p>
