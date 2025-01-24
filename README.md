@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="mailto:donesvad@gmail.com">donesvad@gmail.com</a> • 
-  <a href="https://www.linkedin.com/in/vadim-dones" target="_blank">LinkedIn</a> • 
+  <a href="https://www.linkedin.com/in/vadim-dones" target="_blank">LinkedIn</a>
 </p>
 
 ---
