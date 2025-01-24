@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Vadim!</h1>
-<h3 align="center"><strong>QA Engineer | SDET</strong></p>
+<h3 align="center"><strong>QA Engineer | SDET</strong></h3>
 
 <p align="center">
   <a href="mailto:donesvad@gmail.com">donesvad@gmail.com</a> • 
